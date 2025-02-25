@@ -1,2 +1,3 @@
-27-Bit Minimal Computer :\n
+27-Bit Minimal Computer :
+
 This project involves the design and implementation of a 27-bit minimal computer using Logisim. It features a control unit managing a 11-instruction fetch-decode-execute cycle, an ALU supporting arithmetic and logical operations, and a 6-bit address space limiting memory to 64 locations. The system ensures synchronized execution through a master clock, coordinating the ALU, registers, and memory. Logisim’s built-in RAM facilitates instruction storage and execution. This project explores fundamental CPU design concepts, control logic, and memory management using digital logic simulation.
